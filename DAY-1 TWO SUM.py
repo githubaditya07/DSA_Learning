@@ -11,3 +11,6 @@ class Solution:
                 find=target-nums[i]
                 if nums[j]==find:
                     return[i,j]
+                
+
+                
